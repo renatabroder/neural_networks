@@ -141,6 +141,6 @@ def processamento(data, n=2):
 
 
 def main():
-    processamento("seeds", n=3)
+    processamento("../Datasets/wine", n=3)
 
 main()
